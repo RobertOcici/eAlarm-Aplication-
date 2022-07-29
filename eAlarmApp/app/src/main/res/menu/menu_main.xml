@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="Submit ">
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&lt;item&#xA;        android:id=&quot;@+id/Button&quot;&#xA;        android:orderInCategory=&quot;100&quot;&#xA;        android:title=&quot;Enter Time in Seconds &quot;" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&lt;item&#xA;        android:id=&quot;@+id/action_settings&quot;&#xA;        android:orderInCategory=&quot;100&quot;&#xA;        android:title=&quot;Button&quot;" />
+    <item
+        android:id="@+id/Button"
+        android:orderInCategory="100"
+        android:title="SET DAY OF REMINDER   " "
+        android:title="Submit"
+    app:showAsAction="never" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&lt;item&#xA;        android:id=&quot;@+id/action_settings&quot;&#xA;        android:orderInCategory=&quot;100&quot;&#xA;        android:title=&quot;Button&quot;" />
+    <item
+        android:id="@+id/Button"
+        android:orderInCategory="100"
+        android:title="SET  ALARM  TIME  " "
+    android:title="Submit"
+    app:showAsAction="never" />
+    <BUTTON
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&lt;item&#xA;        android:id=&quot;@+id/action_settings&quot;&#xA;        android:orderInCategory=&quot;100&quot;&#xA;        android:title=&quot;Button&quot;" />
+    <item
+        android:id="@+id/Button"
+        android:orderInCategory="100"
+        android:title=" PRESS OK  "
+    android:title="PRESS OK"
+    app:showAsAction="never" />
+</menu>
